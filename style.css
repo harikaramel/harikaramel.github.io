@@ -1913,7 +1913,7 @@ p {
 }
 
 .section-title {
-    color: #2b4eff;
+    color: #345766;
     font-weight: 600;
     margin-bottom: 20px;
     font-size: 28px;
@@ -1935,14 +1935,14 @@ p {
 
 .accordion-button {
     background: #f8f9fa;
-    color: #2b4eff;
+    color: #345766;
     font-weight: 500;
     padding: 15px 20px;
     border-radius: 8px;
 }
 
 .accordion-button:not(.collapsed) {
-    background: #2b4eff;
+    background: #345766;
     color: white;
 }
 
@@ -1955,12 +1955,12 @@ p {
 .award-item, .talk-item, .news-item, .community-item {
     margin-bottom: 12px;
     padding-left: 10px;
-    border-left: 3px solid #2b4eff;
+    border-left: 3px solid #345766;
 }
 
 .year-bold {
     font-weight: 600;
-    color: #2b4eff;
+    color: #345766;
     margin-right: 10px;
 }
 
@@ -2000,7 +2000,7 @@ p {
 }
 
 .interest-btn {
-  background-color: #2b4eff;
+  background-color: #345766;
   color: white;
   border: none;
   padding: 10px 20px;
@@ -2044,7 +2044,7 @@ p {
 }
 
 .academic-profile-section .accordion-button:not(.collapsed) {
-  background-color: #2b4eff;
+  background-color: #345766;
   color: white;
 }
 
@@ -2054,7 +2054,7 @@ p {
 
 .academic-profile-section .year-bold {
   font-weight: 700;
-  color: #2b4eff;
+  color: #345766;
   margin-right: 10px;
 }
 
@@ -2070,7 +2070,7 @@ p {
 }
 
 .copyright-text a {
-  color: #2b4eff;
+  color: #345766;
   text-decoration: none;
   transition: color 0.3s ease;
 }
@@ -2090,7 +2090,7 @@ p {
 
 .section-title-five .content h2 {
   margin-bottom: 0;
-  color: #2b4eff;
+  color: #345766;
   font-size: 32px;
   font-weight: 700;
 }
